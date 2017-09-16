@@ -1,1 +1,0 @@
-NRF24L01 to irq pin, device interrupt pin must be implemented as GPIO_MODE_IT_FALLING
